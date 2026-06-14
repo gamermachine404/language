@@ -27,5 +27,3 @@ White: no wrong character has been inputted yet
 Yellow: a wrong character has been inputted
 Red: the enemy's lifetime expired and the right answer was not inputted.
 Green: the right answer was inputted
-
-Also note, the folder says "japanese" but you can use it with pretty much anything. It's just that I originally made this to learn Japanese and I'm too lazy to change it.
