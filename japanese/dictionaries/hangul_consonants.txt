@@ -1,0 +1,70 @@
+ㄱ (I)
+g
+ㄱ (F)
+k
+ㄴ (I)
+n
+ㄴ (F)
+n
+ㄷ (I)
+d
+ㄷ (F)
+t
+ㄹ (I)
+r
+ㄹ (F)
+l
+ㅁ (I)
+m
+ㅁ (F)
+m
+ㅂ (I)
+b
+ㅂ (F)
+p
+ㅅ (I)
+s
+ㅅ (F)
+t
+ㅇ (I)
+ 
+ㅇ (F)
+ng
+ㅈ (I)
+j
+ㅈ (F)
+t
+ㅊ (I)
+ch
+ㅊ (F)
+t
+ㅋ (I)
+k
+ㅋ (F)
+k
+ㅌ (I)
+t
+ㅌ (F)
+t
+ㅍ (I)
+p
+ㅍ (F)
+p
+ㅎ (I)
+h
+ㅎ (F)
+t
+ㄲ (I)
+kk
+ㄲ (F)
+k
+ㄸ (I only)
+tt
+ㅃ (I only)
+pp
+ㅆ (I)
+ss
+ㅆ (F)
+t
+ㅉ (I only)
+jj
