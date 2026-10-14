@@ -6,7 +6,7 @@ This program uses godot 4.6
 
 In the dictionaries folder, input your dictionary file. A dictionary file is a .txt file and has this format:
 
-(question)
+(question) <br>
 (answer)
 
 and so on and so forth (see the already present dictionaries for examples)
@@ -17,7 +17,7 @@ After the spawn interval, an "enemy" (just a piece of text) presenting the (ques
 
 For example, if what was in the dictionary looked like this:
 
-ちょ
+ちょ <br>
 cho
 
 then an enemy would appear with "ちょ" written, and you'd have to type "cho" to make it disappear. If you don't manage to type the right answer within the lifetime of the enemy, it will reveal the answer and disappear.
