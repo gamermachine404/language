@@ -10,7 +10,6 @@ In the dictionaries folder, input your dictionary file. A dictionary file is a .
 (answer)
 
 and so on and so forth (see the already present dictionaries for examples)
-(note: ENTERs do not render in the readme, see the already present dictionaries for format examples)
 
 Once you start the program, you can select which dictionaries you want to include, the enemy lifetime and enemy spawn interval (both in seconds).
 After the spawn interval, an "enemy" (just a piece of text) presenting the (question) will appear, and you have to type in the (answer) that was contained in the dictionary to make it disappear. 
